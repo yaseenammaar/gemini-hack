@@ -1,3 +1,4 @@
+# Copyright (c) 2026 Sniff Labs LLC. All rights reserved.
 import requests
 
 SKYSCANNER_API_URL = "https://partners.api.skyscanner.net/apiservices/browsequotes/v1.0/US/USD/en-US"
